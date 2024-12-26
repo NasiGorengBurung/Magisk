@@ -95,6 +95,8 @@ Possible OEM Lock values are the following:
 
 To unlock your bootloader, follow the instructions below. If no OEM Lock value is shown in Download mode, your device is probably not unlockable due to market limitations (USA/Canada devices).
 
+If there are OEM unlocking in developer option while no OEM lock value is shown in Download mode, that **doesn't** mean it is not unlockable, you could flash unofficial.
+
 Possible KnoxGuard values are the following:
 
 - `Active`, `Locked`: your device has been remotely locked by your telecom operator or your insurance company.
